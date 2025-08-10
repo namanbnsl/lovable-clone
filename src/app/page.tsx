@@ -1,11 +1,5 @@
-import { Button } from "@/components/ui/button";
-
-const Home = () => {
-  return (
-    <div>
-      <Button>Click Me</Button>
-    </div>
-  );
+const Home = async () => {
+  return <div>Hi</div>;
 };
 
 export default Home;
